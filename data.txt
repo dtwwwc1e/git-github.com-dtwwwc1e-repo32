@@ -1,1 +1,8 @@
-This is my data
+4200, 31.501, South
+4202, 10.423, South
+4203, 31.600, South
+4205, 44,194, North
+4206, 31.501, South
+4207, 91.205, North
+4192, 31,505, North
+4209, 47,288, South
